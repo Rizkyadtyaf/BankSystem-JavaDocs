@@ -85,7 +85,7 @@ Output dari perintah di atas tersimpan di folder `doc/` dalam format HTML.
 
 ## Catatan Tambahan
 
-- Semua file di folder `doc/` dihasilkan otomatis oleh JavaDocs dan **tidak perlu diubah secara manual**.  
+- Semua file di folder `docs/` dihasilkan otomatis oleh JavaDocs dan **tidak perlu diubah secara manual**.  
 - File utama dokumentasi adalah `doc/index.html`.  
 - Untuk membuka dokumentasi, cukup buka `index.html` di browser.  
 - Struktur dan dokumentasi proyek ini sudah **sepenuhnya sesuai dengan ketentuan tugas di PDF**.
