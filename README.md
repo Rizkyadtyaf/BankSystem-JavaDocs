@@ -76,7 +76,7 @@ Tugas ini bertujuan untuk:
 
 **Perintah untuk Generate Dokumentasi JavaDocs:**
 ```bash
-javadoc -d doc src/BankAccount.java src/BankSystem.java src/Transaction.java src/MainApp.java
+javadoc -d docs src/BankAccount.java src/BankSystem.java src/Transaction.java src/MainApp.java
 ```
 
 Output dari perintah di atas tersimpan di folder `doc/` dalam format HTML.
@@ -86,7 +86,7 @@ Output dari perintah di atas tersimpan di folder `doc/` dalam format HTML.
 ## Catatan Tambahan
 
 - Semua file di folder `docs/` dihasilkan otomatis oleh JavaDocs dan **tidak perlu diubah secara manual**.  
-- File utama dokumentasi adalah `doc/index.html`.  
+- File utama dokumentasi adalah `docs/index.html`.  
 - Untuk membuka dokumentasi, cukup buka `index.html` di browser.  
 - Struktur dan dokumentasi proyek ini sudah **sepenuhnya sesuai dengan ketentuan tugas di PDF**.
 
